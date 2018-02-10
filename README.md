@@ -5,6 +5,7 @@
 * Método GET
 
 Retornar todos os usuários: http://localhost/php_rest_api/api/usuarios
+
 Retornar usuário específico: http://localhost/php_rest_api/api/usuarios/{id}
 
 * Método POST
